@@ -1,1 +1,1 @@
-# Wine_Qurality-MLProject
+# Wine_Quality-MLProject  End to End Project
